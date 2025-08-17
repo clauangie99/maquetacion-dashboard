@@ -1,2 +1,2 @@
-# maquetacion-dashboard
+# Maquetacion Dashboard
 Se maqueto un dashboard utilizando HTML y Tailwind. 
